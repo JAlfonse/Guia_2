@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Guia_2</string>
+    <string name="rdbtn_Cambio">Cambiar nombre del archivo</string>
+    <string name="rdbtn_NoCambio">No cambiar el nombre</string>
+</resources>
